@@ -1,3 +1,5 @@
+> **Development has moved:** See [the `ender-eyes` module in the Bertie monorepo](https://github.com/bertie-mc/bertie/tree/main/mods/ender-eyes). This repository is retained read-only for historical tags, releases, and issues.
+
 # Ender Eyes
 
 Adds the **Ender Eyes** helmet enchantment: while worn, looking directly at an Enderman will not anger it.
